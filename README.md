@@ -14,5 +14,5 @@ Aplicación web simple desarrollada como parte de una **prueba técnica de progr
 
 ---
 
-## 📁 Estructura del Proyecto
+
 
